@@ -38,3 +38,5 @@ Note: All dimension and design were based on research from trader and metal and 
      a. Radius of curvature is 5.8
      b. outer diameter is 58mm
      c.inner diameter is 49mm
+
+After the design of parts and its assembly, I export the parts as png files and assembly as step file and png for easy access on another CAD software, and as image for easy glance respectively.
